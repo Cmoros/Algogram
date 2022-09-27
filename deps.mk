@@ -1,0 +1,1 @@
+algogram: tp2.o sistema.o usuario.o post.o hash.o heap.o abb.o pila.o
